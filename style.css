@@ -9,6 +9,7 @@ body {
 }
 
 .container {
+    margin-top: 10%;
     background-color: hsl(0, 0%, 100%);
     width: 340px;
     border-radius: 20px;
